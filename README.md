@@ -1,1 +1,1 @@
-Github Repo: 
+Github Repo: https://github.com/whoisdilshad/movieapi.git
